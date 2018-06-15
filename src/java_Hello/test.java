@@ -6,6 +6,7 @@ public class test {
 		// TODO Auto-generated method stub
 			String re="≤‚ ‘";
 			System.out.println(re+"34");
+			
 	}
 
 }
