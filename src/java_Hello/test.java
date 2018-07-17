@@ -15,6 +15,7 @@ public class test {
 			String re="123";
 			String re2="4";
 			
+			
 			int num1=Integer.parseInt(re);
 			int num2=Integer.parseInt(re2);
 			Cal cal=new Cal();
